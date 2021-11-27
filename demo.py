@@ -5,7 +5,7 @@ from streamlit_bokeh_events import streamlit_bokeh_events
 from sumapi.api import SumAPI
 import json
 
-api_connect = SumAPI(username='GSUINF443', password='wHxuqxdQ95cT')
+api_connect = SumAPI(username='********', password='********')
 
 st.title("Cümle Duygu Bulucu Makine")
 st.subheader("Cümlendeki derin manaları bulmamı ister misin ?")
